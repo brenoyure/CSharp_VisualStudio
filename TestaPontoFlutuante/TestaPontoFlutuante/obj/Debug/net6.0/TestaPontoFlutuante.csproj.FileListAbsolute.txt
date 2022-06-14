@@ -1,0 +1,15 @@
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\net6.0\TestaPontoFlutuante.exe
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\net6.0\TestaPontoFlutuante.deps.json
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\net6.0\TestaPontoFlutuante.runtimeconfig.json
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\net6.0\TestaPontoFlutuante.dll
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\net6.0\TestaPontoFlutuante.pdb
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\TestaPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\TestaPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\TestaPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\TestaPontoFlutuante.AssemblyInfo.cs
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\TestaPontoFlutuante.dll
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\refint\TestaPontoFlutuante.dll
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\TestaPontoFlutuante.pdb
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\TestaPontoFlutuante.genruntimeconfig.cache
+C:\Users\Breno\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\net6.0\ref\TestaPontoFlutuante.dll

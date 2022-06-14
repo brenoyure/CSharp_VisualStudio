@@ -1,0 +1,15 @@
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\bin\Debug\net6.0\_5_Caracteres_e_Textos.exe
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\bin\Debug\net6.0\_5_Caracteres_e_Textos.deps.json
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\bin\Debug\net6.0\_5_Caracteres_e_Textos.runtimeconfig.json
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\bin\Debug\net6.0\_5_Caracteres_e_Textos.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\bin\Debug\net6.0\_5_Caracteres_e_Textos.pdb
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\_5_Caracteres_e_Textos.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\_5_Caracteres_e_Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\_5_Caracteres_e_Textos.AssemblyInfoInputs.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\_5_Caracteres_e_Textos.AssemblyInfo.cs
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\_5_Caracteres_e_Textos.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\_5_Caracteres_e_Textos.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\refint\_5_Caracteres_e_Textos.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\_5_Caracteres_e_Textos.pdb
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\_5_Caracteres_e_Textos.genruntimeconfig.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_5_Caracteres_e_Textos\obj\Debug\net6.0\ref\_5_Caracteres_e_Textos.dll
