@@ -1,0 +1,15 @@
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\bin\Debug\net6.0\_8_Condicionais2.exe
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\bin\Debug\net6.0\_8_Condicionais2.deps.json
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\bin\Debug\net6.0\_8_Condicionais2.runtimeconfig.json
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\bin\Debug\net6.0\_8_Condicionais2.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\bin\Debug\net6.0\_8_Condicionais2.pdb
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\_8_Condicionais2.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\_8_Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\_8_Condicionais2.AssemblyInfoInputs.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\_8_Condicionais2.AssemblyInfo.cs
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\_8_Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\_8_Condicionais2.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\refint\_8_Condicionais2.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\_8_Condicionais2.pdb
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\_8_Condicionais2.genruntimeconfig.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_8_Condicionais2\obj\Debug\net6.0\ref\_8_Condicionais2.dll

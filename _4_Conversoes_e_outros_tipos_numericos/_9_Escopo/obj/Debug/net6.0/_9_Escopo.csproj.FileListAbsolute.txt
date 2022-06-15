@@ -1,0 +1,15 @@
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\bin\Debug\net6.0\_9_Escopo.exe
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\bin\Debug\net6.0\_9_Escopo.deps.json
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\bin\Debug\net6.0\_9_Escopo.runtimeconfig.json
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\bin\Debug\net6.0\_9_Escopo.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\bin\Debug\net6.0\_9_Escopo.pdb
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\_9_Escopo.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\_9_Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\_9_Escopo.AssemblyInfoInputs.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\_9_Escopo.AssemblyInfo.cs
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\_9_Escopo.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\_9_Escopo.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\refint\_9_Escopo.dll
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\_9_Escopo.pdb
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\_9_Escopo.genruntimeconfig.cache
+C:\Users\Breno\source\repos\_4_Conversoes_e_outros_tipos_numericos\_9_Escopo\obj\Debug\net6.0\ref\_9_Escopo.dll

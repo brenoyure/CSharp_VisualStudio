@@ -7,9 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_4_Conversoes_e_outros_tipo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversoesEOutrosTiposNumericos_Exercicio", "ConversoesEOutrosTiposNumericos_Exercicio\ConversoesEOutrosTiposNumericos_Exercicio.csproj", "{8A57E404-0DA6-424B-80DD-366C3D965674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5_Caracteres_e_Textos", "_5_Caracteres_e_Textos\_5_Caracteres_e_Textos.csproj", "{C1663992-518B-4699-9AC5-F712700191D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_5_Caracteres_e_Textos", "_5_Caracteres_e_Textos\_5_Caracteres_e_Textos.csproj", "{C1663992-518B-4699-9AC5-F712700191D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5_Caracteres_e_Textos_Exercicio", "_5_Caracteres_e_Textos_Exercicio\_5_Caracteres_e_Textos_Exercicio.csproj", "{B63B7CCC-1294-4FAA-859F-01216FB2B190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_5_Caracteres_e_Textos_Exercicio", "_5_Caracteres_e_Textos_Exercicio\_5_Caracteres_e_Textos_Exercicio.csproj", "{B63B7CCC-1294-4FAA-859F-01216FB2B190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_Condicionais", "_7_Condicionais\_7_Condicionais.csproj", "{B933FF1A-9C26-4FDE-9844-E5A805635CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_Condicionais_Exercicio", "_7_Condicionais_Exercicio\_7_Condicionais_Exercicio.csproj", "{4AAAA0C2-4822-4BE5-867F-4EE715C64D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Condicionais2", "_8_Condicionais2\_8_Condicionais2.csproj", "{3D3448B3-8EF0-4E20-AF45-4E3CD395EB5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Condicionais2_Exercicio", "_8_Condicionais2_Exercicio\_8_Condicionais2_Exercicio.csproj", "{CDEBB253-F751-4526-ACD3-6D39A4B45B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_9_Escopo", "_9_Escopo\_9_Escopo.csproj", "{08047BFF-91C6-449A-B0F1-565C5F19ADD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_9_Escopo_Exercicio", "_9_Escopo_Exercicio\_9_Escopo_Exercicio.csproj", "{FF961139-6ACC-439F-9EAA-EC4055621E5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +45,30 @@ Global
 		{B63B7CCC-1294-4FAA-859F-01216FB2B190}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B63B7CCC-1294-4FAA-859F-01216FB2B190}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B63B7CCC-1294-4FAA-859F-01216FB2B190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B933FF1A-9C26-4FDE-9844-E5A805635CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B933FF1A-9C26-4FDE-9844-E5A805635CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B933FF1A-9C26-4FDE-9844-E5A805635CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B933FF1A-9C26-4FDE-9844-E5A805635CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAAA0C2-4822-4BE5-867F-4EE715C64D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAAA0C2-4822-4BE5-867F-4EE715C64D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAAA0C2-4822-4BE5-867F-4EE715C64D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAAA0C2-4822-4BE5-867F-4EE715C64D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3448B3-8EF0-4E20-AF45-4E3CD395EB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3448B3-8EF0-4E20-AF45-4E3CD395EB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3448B3-8EF0-4E20-AF45-4E3CD395EB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3448B3-8EF0-4E20-AF45-4E3CD395EB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEBB253-F751-4526-ACD3-6D39A4B45B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEBB253-F751-4526-ACD3-6D39A4B45B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEBB253-F751-4526-ACD3-6D39A4B45B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEBB253-F751-4526-ACD3-6D39A4B45B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08047BFF-91C6-449A-B0F1-565C5F19ADD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08047BFF-91C6-449A-B0F1-565C5F19ADD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08047BFF-91C6-449A-B0F1-565C5F19ADD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08047BFF-91C6-449A-B0F1-565C5F19ADD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF961139-6ACC-439F-9EAA-EC4055621E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF961139-6ACC-439F-9EAA-EC4055621E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF961139-6ACC-439F-9EAA-EC4055621E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF961139-6ACC-439F-9EAA-EC4055621E5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
